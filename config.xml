@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Catch]</name>
+    <name>Catch</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
     <author href="http://scratch.mit.edu/users/killerrules2" email="killerrules2@gmail.com">
-        [killerrules2]
+        killerrules2
     </author>
 
 </widget>
